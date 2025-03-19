@@ -7,6 +7,45 @@
   <title>The53Co</title>
 </head>
 <body>
-  
-</body>
+  <header class="site_header">
+    <div class="wrapper_inner">
+      <nav class="site_header_nav">
+        <ul role="list" class="flex flex_center">
+          <li><a href="#0">HOME</a></li>
+          <li><a href="#about">ABOUT</a></li>
+          <li><a href="#work">WORK</a></li>
+          <li><a href="#contact">CONTACT</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section id="hero">
+      <div class="wrapper">
+        <div class="wrapper_inner">
+          <div class="text_center hero_content">
+            <h1 class="h2">The53Company</h1>
+            <p> class="h5">Hat Selection</p>
+          </div>
+        </div>
+        <ul role="list" class="flex flex_between hero_social">
+          <address>United States</address>
+          <ul role="list" class="flex">
+            <li>Find me online</li>
+            <li>
+              <a href="https://github.com/The53co" targer="_blank">
+                <img src="placeholder"
+              </a>
+            </li>
+            <li>
+              <a href="https://" target="_blank">
+               <img src="placeholder"
+              </a>
+            </li>
+          </ul>
+        </ul>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>
